@@ -27,7 +27,7 @@ This is expected behavior for programs that:
 
 ### ✅ Transparency
 
-**You can and should review the `main.cpp` file yourself**. The full source code is included in this repository and is short, readable, and fully commented.
+**You can and should review the `Keyboardshuffler.cpp` file yourself**. The full source code is included in this repository and is short, readable, and fully commented.
 
 > **Never download or run any executable you do not trust.**
 
