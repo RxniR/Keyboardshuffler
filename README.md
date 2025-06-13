@@ -60,7 +60,7 @@ To stop the madness, just press `ESC`. The program will unhook itself and exit c
 
 ## 📂 Files
 
-- `main.cpp` – The full source code.
+- `Keyboardshuffler.cpp` – The full source code.
 - `README.md` – You're reading it.
 
 ---
