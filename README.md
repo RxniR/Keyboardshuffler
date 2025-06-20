@@ -33,15 +33,21 @@ This is expected behavior for programs that:
 
 If you want to be completely safe, compile the code yourself using Visual Studio.
 
-## 🛠 Building the Project
+### Downloading
 
-### Prerequisites
+## Steps
+
+1. Enter the Releases page in the repository.
+2. Click the Keyboardshuffler.exe link.
+3. The browser will give you a warning, sadly, but you can simply click the three dots, click keep, click show more, then click keep again.
+4. Run the `.exe` file.
+
+### Compiling the project with Visual Studio (Optional)
+## Prerequisites
 
 - Windows
 - Visual Studio (Community edition is fine)
 - Basic knowledge of compiling C++ console applications
-
-### Steps
 
 1. Clone or download this repository.
 2. Open the `.sln` or `.cpp` file in Visual Studio.
