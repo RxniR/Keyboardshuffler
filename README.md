@@ -75,5 +75,5 @@ To stop the madness, just press `ESC`. The program will unhook itself and exit c
 #### Author
 
 Made by RxniR
-Feel free to fork, modify, and experiment.
+Feel free to fork, modify, and experiment, however malicious intent will not be tolerated!
 
